@@ -1,2 +1,2 @@
-# them-app
+# theme-app
 theme app 
